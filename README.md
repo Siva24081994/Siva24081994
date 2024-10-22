@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data scientist
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on projects related to database
-- 📫 How to reach me --Email: gcms1994@gmail.com
 - 😄 Pronouns: Try and try till you succeed
 - ⚡ Fun fact: 😜😁
 
