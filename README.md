@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sivasankari g
 - 👀 I’m interested in Data scientist
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on projects related to database
+- 💞️ I’m looking to collaborate on projects related to Data sciene
 - 😄 Pronouns: Try and try till you succeed
 - ⚡ Fun fact: 😜😁
 
